@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kay</h1>
-<h3 align="center">I'm a Blockchain Developer. Everyday is a learning day for me.</h3>
+<h3 align="center">I'm a Blockchain Developer. Every day is a learning day for me.</h3>
 
-- 🔭 I’m currently working as a freelance
+- 🔭 I’m currently working as a freelance **blockchain developer.**
 
 - 🌱 I’m currently learning **Smart Contracts development.**
 
