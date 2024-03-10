@@ -7,6 +7,38 @@
 
 - 👀 Fun fact **If i don't know about something, I don't know it today. But i'll learn it and implement in my code.**
 
+### About me
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
+contract Profile {
+    string public name = "Kay";
+    string public pronouns = "He | Him";
+    string public currentFocus = "Web3 / Smart Contract / Dapp";
+
+    string[] internal skills;
+    string[] internal langs;
+
+    function getSkills() public returns (string[] memory) {
+        skills = ["git", "web3.js", "ethers"];
+
+        return skills;
+    }
+
+    function getLangs() public returns (string[] memory) {
+        langs = ["Javascript", "Solidity", "Python", "AutoIt"];
+
+        return langs;
+    }
+
+    function fun() public view returns (string memory) {
+        return
+            "If i don't know about something, I don't know it today. But i'll learn it and implement in my code.";
+    }
+}
+```
 <!---
 KayNguyenDev/KayNguyenDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
