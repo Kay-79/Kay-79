@@ -22,12 +22,12 @@ contract Profile {
     string[] internal langs;
 
     function getSkills() public returns (string[] memory) {
-        skills = ["git", "web3.js", "ethers"];
+        skills = ["git", "Web3", "Smart contract"];
         return skills;
     }
 
     function getLangs() public returns (string[] memory) {
-        langs = ["Javascript", "Rust", "Solidity", "Python", "AutoIt"];
+        langs = ["Javascript", "Solidity",, "Rust", "Python", "AutoIt"];
         return langs;
     }
 
