@@ -27,7 +27,7 @@ contract Profile {
     }
 
     function getLangs() public returns (string[] memory) {
-        langs = ["Javascript", "Solidity",, "Rust", "Python", "AutoIt"];
+        langs = ["Javascript", "Solidity", "Rust", "Python", "AutoIt"];
         return langs;
     }
 
