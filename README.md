@@ -22,7 +22,7 @@ contract Profile {
     string[] internal langs;
 
     function getSkills() public returns (string[] memory) {
-        skills = ["git", "Web3", "Smart contract"];
+        skills = ["git", "Web3", "Smart contract", "Hardhat"];
         return skills;
     }
 
@@ -31,7 +31,7 @@ contract Profile {
         return langs;
     }
 
-    function fun() public view returns (string memory) {
+    function fun() public pure returns (string memory) {
         return
             "If i don't know about something, I don't know it today. But i'll learn it and implement in my code.";
     }
