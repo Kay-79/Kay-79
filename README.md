@@ -11,18 +11,18 @@
 
 ```solidity
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.24;
+pragma solidity ^0.8.28;
 
 contract Profile {
     string public name = "Kay";
     string public pronouns = "He | Him";
-    string public currentFocus = "Web3 / Smart Contract / Dapp";
+    string public currentFocus = "Web3 / Smart Contract / Dapp / EVM";
 
     string[] internal skills;
     string[] internal langs;
 
     function getSkills() public returns (string[] memory) {
-        skills = ["git", "Web3", "Smart contract", "Hardhat"];
+        skills = ["git", "Web3", "Smart contract", "Hardhat", "Front Running"];
         return skills;
     }
 
