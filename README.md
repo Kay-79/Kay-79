@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kay</h1>
 <h3 align="center">I'm a Blockchain Developer. Every day is a learning day for me.</h3>
 
-- 🔭 I’m currently working as a freelance **blockchain developer.**
+-   🔭 I’m currently working as a freelance **blockchain developer.**
 
-- 🌱 I’m currently learning **Smart Contracts development.**
+-   🌱 I’m currently learning **Smart Contracts development.**
 
-- 👀 Fun fact **If i don't know about something, I don't know it today. But i'll learn it and implement in my code.**
+-   👀 Fun fact **If i don't know about something, I don't know it today. But i'll learn it and implement in my code.**
+
+### Socials
+
+<p align="center">
+  <a href="https://monkeytype.com/profile/Kay-79"><img src="https://img.shields.io/badge/Monkeytype-gray?style=for-the-badge&logo=monkeytype&logoColor=white"></a>
+</p>
 
 ### About me
 
