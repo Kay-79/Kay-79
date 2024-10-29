@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://monkeytype.com/profile/Kay-79"><img src="https://img.shields.io/badge/Monkeytype-gray?style=for-the-badge&logo=monkeytype&logoColor=white"></a>
+  <a href="https://duolingo.com/profile/Kay-79"><img src="https://img.shields.io/badge/Duolingo-gray?style=for-the-badge&logo=duolingo&logoColor=white"></a>
 </p>
 
 ### About me
