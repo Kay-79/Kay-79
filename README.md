@@ -19,7 +19,7 @@
 
 ```solidity
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.28;
+pragma solidity ^0.8.30;
 
 contract Profile {
     string public name = "Kay";
@@ -28,10 +28,16 @@ contract Profile {
 
     string[] internal skills;
     string[] internal langs;
+    string[] internal frameworks;
 
     function getSkills() public returns (string[] memory) {
-        skills = ["git", "Web3", "Smart contract", "Hardhat", "Front Running"];
+        skills = ["git", "Agile/Scrum", "CI/CD"];
         return skills;
+    }
+
+    function getFrameworks() public returns (string[] memory) {
+        frameworks = ["Next.js", "Redis", "PostgreSQL", "Tailwind CSS", "Hardhat", "Ethers.js", "Foundry"];
+        return frameworks;
     }
 
     function getLangs() public returns (string[] memory) {
